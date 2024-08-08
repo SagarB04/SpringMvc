@@ -21,10 +21,10 @@
 	src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
 	integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
 	crossorigin="anonymous"></script>
-<title>3Ri Technology</title>
+<title>Spring MVC</title>
 </head>
 <body>
 <%@ include file="navbar.jsp"%>
-	Welcome to 3Ri Technology
+	Welcome to Spring MVC
 </body>
 </html>
